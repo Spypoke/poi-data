@@ -1,0 +1,21 @@
+{
+  "latest_version": 1706500000,
+  "deltas": [
+    {
+      "from_version": 1706300000,
+      "to_version": 1706400000,
+      "file": "deltas/delta_1706300000_to_1706400000.db.gz",
+      "sha256": "abc123...",
+      "upsert_count": 84,
+      "delete_count": 0
+    },
+    {
+      "from_version": 1706400000,
+      "to_version": 1706500000,
+      "file": "deltas/delta_1706400000_to_1706500000.db.gz",
+      "sha256": "def456...",
+      "upsert_count": 20,
+      "delete_count": 1
+    }
+  ]
+}
