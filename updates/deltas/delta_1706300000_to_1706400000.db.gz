@@ -1,8 +1,0 @@
-{
-      "from_version": 1706300000,
-      "to_version": 1706400000,
-      "file": "deltas/delta_1706300000_to_1706400000.db.gz",
-      "sha256": "abc123...",
-      "upsert_count": 84,
-      "delete_count": 0
-    }
