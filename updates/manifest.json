@@ -1,13 +1,13 @@
 {
-  "current_version": 1769649603,
+  "current_version": 1769828927,
   "deltas": [
     {
       "from_version": 0,
-      "to_version": 1769649603,
-      "file": "deltas/delta_0_to_1769649603.db.gz",
-      "sha256": "e68d81480fac29a9eae2e48c8f6307ee1547f6a26551b8d3c15723b625698adb",
-      "poi_count": 1807438,
-      "file_size": 61067920
+      "to_version": 1769828927,
+      "file": "deltas/delta_0_to_1769828927.db.gz",
+      "sha256": "5348199b83fa6393f11cea298d968bced1f26fcaca7fb42eeba1f92e59309ffa",
+      "poi_count": 1845885,
+      "file_size": 62210127
     }
   ]
 }
