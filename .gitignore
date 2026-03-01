@@ -2,3 +2,6 @@ updates/geo-new.db
 updates/deltas/delta_0_to_1771768126.db.gz
 updates/geo-new.db-shm
 updates/geo-new.db-wal
+updates/data_rtree.db
+updates/data_rtree_.db
+updates/geo-new - Kopie.db
