@@ -1,0 +1,14 @@
+{
+  "current_version": 1774777390,
+  "deltas": [
+    {
+      "from_version": 0,
+      "to_version": 1774777390,
+      "file": "deltas/delta_0_to_1774777390.db.gz",
+      "sha256": "4290bd376419187332ce776cb7d69b7219cdaa60400548a1f275bf24432476a4",
+      "poi_count": 3311277,
+      "delete_count": 0,
+      "file_size": 156310176
+    }
+  ]
+}
