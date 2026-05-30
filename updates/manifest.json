@@ -1,5 +1,5 @@
 {
-  "current_version": 1779300343,
+  "current_version": 1780132512,
   "deltas": [
     {
       "from_version": 0,
@@ -63,6 +63,15 @@
       "poi_count": 19260,
       "delete_count": 2272,
       "file_size": 1093830
+    },
+    {
+      "from_version": 1779300343,
+      "to_version": 1780132512,
+      "file": "deltas/delta_1779300343_to_1780132512.db.gz",
+      "sha256": "4ce9caaa7b5d6afa69fdf7d22d8c0f0d0976311222c13c7fd6279f27da57ec02",
+      "poi_count": 19229,
+      "delete_count": 2039,
+      "file_size": 1070643
     }
   ]
 }
